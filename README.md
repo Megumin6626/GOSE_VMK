@@ -3,6 +3,15 @@ GOSE_VMK allow you to download GESO-16/18 satellite images from NOAA websites, f
 Its created to achive a higher resolution more flexable time range and more channle than the video creator on NOAA website.
 It support both GOSE-16 and GOSE-18 satellite with 24 different channle to select and support resolution up to 21696*21696 and 10848*10848 for video.
 
+## Result Video
+GOSE 16 East GeoColor True Color Full Disk Video of Solar Eclipse in 2023 (14 Oct 2023 1000 UTC - 14 Oct 2023 2250 UTC)
+
+https://github.com/Megumin6626/GOSE_VMK/assets/128641827/05cf91a9-46f8-4029-a806-94e9d75a4236
+
+GOSE 18 Wast GeoColor True Color Full Disk Video of Solar Eclipse in 2023 (14 Oct 2023 1000 UTC - 14 Oct 2023 2250 UTC)
+
+https://github.com/Megumin6626/GOSE_VMK/assets/128641827/c20913d8-505d-4a67-b6f9-9d139cfb9a7c
+
 ## Features
 
 - Satellite and channel selection
