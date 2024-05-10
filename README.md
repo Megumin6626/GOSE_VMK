@@ -1,7 +1,12 @@
 # GOSE_VMK (GOSE Video Maker)
-GOSE_VMK allow you to download GESO-16/18 satellite images from NOAA websites, filter them by Channle, date and resolution, and create a video from the downloaded images.
-Its created to achive a higher resolution more flexable time range and more channle than the video creator on NOAA website.
-It support both GOSE-16 and GOSE-18 satellite with 24 different channle to select and support resolution up to 21696*21696 and 10848*10848 for video.
+- GOES_VMK allows you to download GOES-16 and GOES-18 satellite images from NOAA's dedicated repositories, specifically from URLs like https://cdn.star.nesdis.noaa.gov/GOES16/ABI/FD/GEOCOLOR/. 
+- This tool enables you to filter images by channel, date, and resolution, and then compile them into high-resolution videos.
+
+## Key Features
+- High-Resolution Outputs: Achieves higher resolution than NOAA's default video creator, supporting up to 21696x21696 and 10848x10848 resolutions for videos.
+- Flexible Date and Channel Selection: Offers more flexibility in selecting time ranges and channels compared to the standard NOAA video options available at https://www.star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G16&band=GEOCOLOR&length=12.
+- Support for Multiple Satellites: Compatible with both GOES-16 and GOES-18 satellites, featuring 24 different channels for tailored image retrieval and video creation.
+GOES_VMK is designed to provide advanced users with the tools necessary to create detailed and specific visualizations of satellite data, offering enhanced control over the output video's content and quality.
 
 ## Result Video
 GOSE 16 East GeoColor True Color Full Disk Video of Solar Eclipse in 2023 (14 Oct 2023 1000 UTC - 14 Oct 2023 2250 UTC)
